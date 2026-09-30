@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis AI",
+  "description": "JARVIS 3.0 Ultimate by AK EXPLOITS — Real 21-Yr-Old Indian Girl AI Assistant with Full Phone & Screen Control",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
